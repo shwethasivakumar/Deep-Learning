@@ -1,1 +1,0 @@
-python3 caption_generation.py "hw2/hw2_1/MLDS_hw2_1_data/testing_data/feat" "hw2/hw2_1/output11.txt"
